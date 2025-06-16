@@ -57,13 +57,16 @@ Os gráficos abaixo ilustram visualmente os dados da tabela, facilitando a ident
 *(**Instrução:** Execute o código Python fornecido na seção seguinte para gerar estes gráficos. Depois, faça o upload dos arquivos .png para seu repositório e substitua os nomes de arquivo abaixo).*
 
 ### Gráfico 1: Tempo de Execução vs. Tamanho do Vetor
-![Tempo de Execução](grafico_tempo.png)
+![Tempo de Execução]![grafico_tempo](https://github.com/user-attachments/assets/2bc57001-329b-43b1-97bf-16e127870f60)
+)
 
 ### Gráfico 2: Número de Trocas vs. Tamanho do Vetor
-![Número de Trocas](grafico_trocas.png)
+![Número de Trocas]![grafico_trocas](https://github.com/user-attachments/assets/5b141be2-4b01-4768-93f2-e69f453091ee)
+
 
 ### Gráfico 3: Número de Iterações vs. Tamanho do Vetor
-![Número de Iterações](grafico_iteracoes.png)
+![Número de Iterações]![grafico_iteracoes](https://github.com/user-attachments/assets/c32e4158-7bbf-4f0b-b43a-0801d5523127)
+
 
 ---
 
